@@ -1,5 +1,4 @@
-# twosigma_rental_listings
-TwoSigma/Renthop rental-listing inquiries competition
+# TwoSigma/Renthop rental listing inquiries competition
 
 https://www.kaggle.com/c/two-sigma-connect-rental-listing-inquiries
 The objective is to predict the level of interest that online rental-listings will receive, given a labeled dataset of ~50k listings.
